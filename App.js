@@ -44,9 +44,6 @@ const styles = StyleSheet.create({
         borderWidth: 3,
         borderColor: '#fffb00',
     },
-    buttonStyle: {
-        backgroundColor: '#fffb00',
-    }
 
 });
 
