@@ -130,7 +130,7 @@ const MyApp = () => {
               onAnswerSelect={setAnswerQ3}
           />
 
-          <Button style={styles.buttonStyle} title="SUBMIT" onPress={handleSubmit} />
+          <Button title="SUBMIT" onPress={handleSubmit} />
         </ScrollView>
       </View>
   );
